@@ -1,22 +1,22 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Enough Advisory"
+# title = "Enough Advisory"
 
 [params]
   displayName = "EN"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  # logo = "img/logo.png"
+  logo = "img/squarelogo.png"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [author]
 name = "Enough Advisory"
-image = "img/squarelogo.png"
-headline = "We're gonna get there"
+# image = "img/squarelogo.png"
+headline = "Solutions for self-employment overwhelm"
 bio = "We'll do better than this later"
 #   links = [
 #     { email = "mailto:hello@your_domain.com" },

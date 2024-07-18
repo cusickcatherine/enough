@@ -1,5 +1,5 @@
 ---
-title: "Solutions Taxonomy Listing Example"
+title: "Let's solve a problem"
 ---
 
-A quick example of how to start using author taxonomies in your articles.
+Here are a few ways we can work together

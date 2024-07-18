@@ -38,11 +38,11 @@ defaultFeaturedImage = "img/background.png" # used as default for featured image
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
   homepageImage = "img/background.png" # used in: hero, and card
-  showRecent = false
+  showRecent = true
   showRecentItems = 5
   showMoreLink = false
-  showMoreLinkDest = "/posts"
-  cardView = false
+  showMoreLinkDest = "/solutions"
+  cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = true # only used when layout equals background
 

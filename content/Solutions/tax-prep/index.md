@@ -1,6 +1,6 @@
 ---
 title: "Tax advisory"
-weight: 15
+weight: 10
 draft: false
 description: "A package for taxes."
 slug: "tax-advisory"

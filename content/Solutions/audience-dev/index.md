@@ -1,6 +1,6 @@
 ---
 title: "Audience growth"
-weight: 20
+weight: 10
 draft: false
 description: "Build an audience."
 slug: "audience"

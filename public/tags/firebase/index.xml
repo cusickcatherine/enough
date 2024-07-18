@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>You&#39;re in the right place on </title>
-    <link>//localhost:1313/</link>
-    <description>Recent content in You&#39;re in the right place on </description>
+    <title>Firebase on </title>
+    <link>//localhost:1313/tags/firebase/</link>
+    <description>Recent content in Firebase on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Enough Advisory</copyright>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/firebase/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Firebase: Views &amp; Likes</title>
       <link>//localhost:1313/solutions/firebase-views/</link>

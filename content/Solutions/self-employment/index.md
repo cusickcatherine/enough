@@ -6,4 +6,8 @@ description: "You're not alone."
 slug: "self-employment"
 ---
 
-Saying more things.
+In addition to providing individual coaching and mentorship, Enough Advisory offers accessible education for newcomers to U.S. self-employment on specific topics.
+
+[Self-Employed FAQ](https://www.selfemployedfaq.com) is a library of dozens of answers to frequently asked questions about self-employment, written for newcomers who are just getting started.
+
+[How to Get a Mortgage When You're Self-Employed](http://gum.co/self-employed-mortgage) is an hour-long video walking through general information on qualifying for a mortgage as a self-employed applicant.

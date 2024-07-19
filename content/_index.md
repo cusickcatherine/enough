@@ -8,8 +8,8 @@ description: "Building processes and preserving sanity"
   speed=90
   lifeLike=true
   startDelay=1
-  breakLines=true
-  loop=false
+  breakLines=false
+  loop=true
 >}}small business overwhelm
 newcomers to self-employment
 employees who want out

@@ -11,8 +11,9 @@ description: "Building processes and preserving sanity"
   breakLines=true
   loop=false
 >}}small business overwhelm
-self-employment
+undervalued employees who want out
+newcomers to self-employment
+frustrated solopreneurs
 tax anxiety
-audience development
 
 {{< /typeit >}}

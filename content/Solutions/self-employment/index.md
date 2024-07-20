@@ -6,7 +6,9 @@ description: "You're not alone."
 slug: "self-employment"
 ---
 
-In addition to providing individual coaching and mentorship, Enough Advisory offers accessible education for newcomers to U.S. self-employment on specific topics.
+Enough Advisory's founder Catherine Cusick, EA offers one-on-one consultations and coaching to individuals looking for more structure, accountability, and support while aiming to reach new milestones in a solo business. [Describe your self-employment goals or challenges here](https://www.selfemployedfaq.com/consulting) to start the process of working together.
+
+In addition to providing individual coaching and mentorship, Enough Advisory offers accessible education for newcomers to U.S. self-employment on specific topics at affordable price points.
 
 [Self-Employed FAQ](https://www.selfemployedfaq.com) is a library of answers to frequently asked questions about self-employment, written for newcomers who are just getting started. Updates to the library are shared in the [Self-Employed FAQ newsletter](https://buttondown.email/sefaq?tag=enough).
 

@@ -2,7 +2,8 @@
 title: "You're in the right place"
 description: "Building processes and preserving sanity"
 ---
-<h2>Solutions for
+## Solutions for
+
 {{< typeit 
   tag=h3
   speed=90
@@ -10,9 +11,8 @@ description: "Building processes and preserving sanity"
   startDelay=1
   breakLines=false
   loop=true
->}}tax anxiety
-small business overwhelm
+>}}small business overwhelm
+tax anxiety
 newcomers to self-employment
 solopreneurs who feel stuck
-
 {{< /typeit >}}

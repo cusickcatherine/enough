@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-Enough Advisory helps small businesses overcome barriers to growth.
+Enough Advisory helps small service businesses overcome barriers to growth.
 
 Founded by Catherine Cusick, EA in Austin, Texas, Enough Advisory combines professional tax credentials and emotional intelligence to help self-employed people conquer tax anxiety, run revenue-generating experiments, engage new audiences, and challenge limiting beliefs. 
 

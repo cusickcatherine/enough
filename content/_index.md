@@ -6,6 +6,7 @@ description: "Building processes and preserving sanity"
 <br>
 <br> 
 <br>
+<br>
 <h2>Solutions for</h2>
 
 {{< typeit 

@@ -2,7 +2,11 @@
 title: "You're in the right place"
 description: "Building processes and preserving sanity"
 ---
-## Solutions for
+<br>
+<br>
+<br> 
+<br>
+<h2>Solutions for</h2>
 
 {{< typeit 
   tag=h3

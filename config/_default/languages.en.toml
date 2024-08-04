@@ -11,10 +11,10 @@ weight = 1
   logo = "img/squarelogo.png"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
-  # copyright = "Copy, _right?_ :thinking_face:"
+  copyright = "© Enough Advisory LLC"
 
 [author]
-name = "Enough Advisory"
+# name = "Enough Advisory"
 # image = "img/squarelogo.png"
 # headline = "Solutions for small business overwhelm"
 # bio = "We'll do better than this later"

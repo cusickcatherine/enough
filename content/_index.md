@@ -13,8 +13,8 @@ description: "Building processes and preserving sanity"
   startDelay=1
   breakLines=false
   loop=true
->}}small business overwhelm
-tax anxiety
+>}}tax anxiety
+small business overwhelm
 newcomers to self-employment
 solopreneurs who feel stuck
 {{< /typeit >}}
